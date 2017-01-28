@@ -1,0 +1,23 @@
+{
+  "name": "pokergameserver",
+  "version": "1.0.0",
+  "description": "poker game server",
+  "main": "gameserver.lobby.js",
+  "scripts": {
+    "test": "node gameserver.lobby.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenhaian/pokergame.git"
+  },
+  "keywords": [
+    "game",
+    "poker"
+  ],
+  "author": "An Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenhaian/pokergame/issues"
+  },
+  "homepage": "https://github.com/nguyenhaian/pokergame#readme"
+}
